@@ -10,6 +10,9 @@ jupyter = "*"
 tensorflow = "*"
 numpy = "*"
 pandas = "*"
+matplotlib = "*"
+sklearn = "*"
+jupyterthemes = "*"
 
 [requires]
 python_version = "3.6"
